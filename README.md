@@ -1,6 +1,6 @@
 # About me
 
-- 🔭 I’m currently working on Startit, a productivity app that defeats procrastination
+- 🔭 I’m currently working on NutrifyUMD, a health/wellness app that helps UMD students create meal + workout plans.
 - 🌱 I’m currently learning machine learning in Python
 - 👯 I’m looking to collaborate on anything app development related
 - 💬 Ask me about anything software startup related
